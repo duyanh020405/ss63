@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 0,
+      "title": "Phong canh",
+      "image": "https://th.bing.com/th/id/OIP.WwfaaXBaoehpgabfnth9CgHaE8?rs=1&pid=ImgDetMain",
+      "content": "beutifull",
+      "checked": false,
+      "statut":"Chua chan"
+    },
+    {
+      "id": 1,
+      "title": "Phong canh 2",
+      "image": "https://guidetoiceland.is/image/437609/x/0/arnastapi-snaefellsnes-national-park-tour-in-a-small-group-1.jpg",
+      "content": "pretty",
+      "checked": false,
+      "statut":"Chua chan"
+    },
+    {
+      "id": 2,
+      "title": "Phong canh 3",
+      "image": "https://guidetoiceland.is/image/437609/x/0/arnastapi-snaefellsnes-national-park-tour-in-a-small-group-1.jpg",
+      "content": "hihi",
+      "checked": false,
+      "statut":"Chua chan"
+    }
+  ]
+}
